@@ -6,13 +6,11 @@ export default function Home() {
                 <figure className="headerImage">
                     <img src="./billeder/me-upside-down.png" alt="" />
                 
-                <div className="intro">
-                    <p>Hi, I'm a</p>
-                    <h1>Multimediadesigner</h1>
-                </div>
+                    <div className="intro">
+                        <p>Hi, I'm a</p>
+                        <h1>Multimediadesigner</h1>
+                    </div>
                 </figure>
-
-                
             </header>
 
             <footer>
