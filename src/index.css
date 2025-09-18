@@ -49,6 +49,24 @@ figure.headerImage {
     flex-direction: column;
 }
 
+section.info {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10rem;
+}
+
+article.digital {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+article.fysisk {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 figure.footerImage {
   display: flex;
   justify-content: center;

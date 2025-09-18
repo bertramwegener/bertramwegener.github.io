@@ -13,6 +13,18 @@ export default function Home() {
                 </figure>
             </header>
 
+            <section className="info">
+                <article className="digital">
+                    <h2>Digital</h2>
+                    <p>Jeg laver til alt med en skærm</p>
+                </article>
+
+                <article className="fysisk">
+                    <h2>Fysisk</h2>
+                    <p>Jeg laver også trykte sager</p>
+                </article>
+            </section>
+
             <footer>
                 <figure className="footerImage">
                     <img src='./billeder/me-one.png' alt="" />
