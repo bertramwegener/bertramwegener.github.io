@@ -1,0 +1,42 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+figure.sun {
+    width: 12rem;
+    position: absolute;
+    top: 302rem;
+    z-index: 1;
+}
+
+figure.bambooFooter {
+    width: 90rem;
+    position: absolute;
+    top: 294rem;
+    background-color: #fff3de;
+    z-index: 0;
+}
+
+.text1 {
+    position: absolute;
+    top: 332rem;
+    text-align: center;
+}
+
+.text2 {
+    position: absolute;
+    top: 340rem;
+    text-align: center;
+}
+
+.contact {
+    font-size: 1.8rem;
+    line-height: 3rem;
+}
+
+figure.footerImage {
+    position: absolute;
+    top: 346.5rem;
+}

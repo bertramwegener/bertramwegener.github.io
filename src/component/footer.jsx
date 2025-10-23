@@ -2,8 +2,8 @@ import '../css/footer.css';
 
 export default function Footer() {
     return (
-        <footer>
-            <figure>
+        <footer id='footer'>
+            <figure className='sun'>
                 <img src="./billeder/red-sun.svg" alt="" />
             </figure>
 
@@ -11,11 +11,15 @@ export default function Footer() {
                 <img src="./billeder/bottom-bamboo.svg" alt="" />
             </figure>
 
-            <h3>Tlf:</h3>
-            <h3>52 30 37 52</h3>
+            <div className='contact text1'>
+                <h3>Tlf:</h3>
+                <p>52 30 37 52</p>
+            </div>
             
-            <h3>Email:</h3>
-            <h3>bertramkrygerwegener@gmail.com</h3>
+            <div className='contact text2'>
+                <h3>Email:</h3>
+                <p>bertramkrygerwegener@gmail.com</p>
+            </div>
 
             <figure className="footerImage">
                 <img src='./billeder/footer.png' alt="" />

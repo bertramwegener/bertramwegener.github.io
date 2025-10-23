@@ -1,5 +1,9 @@
+import Cases from '../component/projects.jsx';
+
 export default function Projects() {
     return (
-        <h1>Projects side</h1>
+
+        <Cases />
+        
     );
 }
