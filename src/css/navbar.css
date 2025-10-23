@@ -4,22 +4,25 @@ nav {
     width: 100%;
     position: fixed;
     padding: 1.5rem 1rem 0rem 1rem;
+    z-index: 1000;
 }
 
-nav figure img {
+nav figure {
+    position: relative;
+    text-align: center;
     width: 33rem;
 }
 
 .navigation.nav1 {
-    position: fixed;
-    z-index: 1000;
-    top: 5rem;
-    left: 8rem;
+    position: absolute;
+    top: 20%;
+    left: 42%;
+    transform: translate(-50%, 50%);
 }
 
 .navigation.nav2 {
-    position: fixed;
-    z-index: 1000;
-    top: 5rem;
-    left: 68rem;
+    position: absolute;
+    top: 20%;
+    left: 57%;
+    transform: translate(-50%, 50%);
 }

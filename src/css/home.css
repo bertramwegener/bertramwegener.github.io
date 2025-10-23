@@ -1,3 +1,29 @@
 .headerImage img {
     width: 100%;
 }
+
+figure.headerImage {
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.intro {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.intro h1 {
+    font-size: 6rem;
+    color: white;
+    text-shadow: 0rem 0rem 1rem #000000;
+}
+
+.intro h2 {
+    font-size: 3rem;
+    color: white;
+    text-shadow: 0rem 0rem 0.5rem #000000;
+}
+

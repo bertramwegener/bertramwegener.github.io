@@ -10,7 +10,7 @@ export default function Home() {
                     <img src="./billeder/big-picture.png" alt="" />
                 
                     <div className="intro">
-                        <p>Hi, I'm a</p>
+                        <h2>Hi, I'm a</h2>
                         <h1>Multimediadesigner</h1>
                     </div>
                 </figure>
