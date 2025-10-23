@@ -2,7 +2,7 @@ import { NavLink } from "react-router";
 import '../css/navbar.css';
 
 export default function Navbar() {
-    return(
+    return (
         <nav>
             <figure>
                 <img src="./billeder/navbar-1.svg" alt="" />

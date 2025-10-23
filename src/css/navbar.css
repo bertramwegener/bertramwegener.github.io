@@ -13,6 +13,14 @@ nav figure {
     width: 33rem;
 }
 
+.navigation {
+    font-size: 2rem;
+}
+
+.navigation a {
+    padding: 2rem;
+}
+
 .navigation.nav1 {
     position: absolute;
     top: 20%;

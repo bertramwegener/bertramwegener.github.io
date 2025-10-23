@@ -1,4 +1,5 @@
 import Info from '../component/info.jsx';
+import IWorkWith from '../component/iWorkWith.jsx';
 import Cases from '../component/projects.jsx';
 import '../css/home.css';
 
@@ -20,11 +21,17 @@ export default function Home() {
                 <img src="./billeder/top-split.png" alt="" />
             </figure>
 
+            <figure className='triangle'>
+                <img src="./billeder/triangle-split.svg" alt="" />
+            </figure>
+
             <Info />
 
             <figure>
                 <img src="./billeder/section-split-2.png" alt="" />
             </figure>
+
+            <IWorkWith />
 
             <Cases />
         </>

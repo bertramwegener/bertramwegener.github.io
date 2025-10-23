@@ -27,3 +27,16 @@ figure.headerImage {
     text-shadow: 0rem 0rem 0.5rem #000000;
 }
 
+figure.topSplit {
+    position: absolute;
+    text-align: center;
+    top: 41rem;
+    z-index: 4;
+}
+
+figure.triangle {
+    position: absolute;
+    width: 100%;
+    top: 55rem;
+    z-index: 3;
+}
