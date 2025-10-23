@@ -1,11 +1,36 @@
 .textSplit {
-    width: 1rem;
+    width: 0.8rem;
 }
 
 section.info {
     background-color: #fff3de;
-    padding: 18rem 1rem 1rem 1rem;
-    position: absolute;
+    padding: 12rem 1rem 0rem 1rem;
     display: flex;
-    top: 62rem;
+    flex-direction: column;
+}
+
+.info-text {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: -10rem;
+}
+
+article.text {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 4rem;
+}
+
+.text h2 {
+    font-size: 4rem;
+    margin-bottom: 3rem;
+}
+
+.text p {
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 4rem;
 }

@@ -27,7 +27,7 @@ export default function Home() {
 
             <Info />
 
-            <figure>
+            <figure className='split2'>
                 <img src="./billeder/section-split-2.png" alt="" />
             </figure>
 
