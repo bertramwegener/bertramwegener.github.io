@@ -13,9 +13,9 @@ export default function Home() {
                 </figure>
             </header>
 
-            <div className="topSplit">
+            <figure className="topSplit">
                 <img src="./billeder/top-split.svg" alt="" />
-            </div>
+            </figure>
 
             <section className="info">
                 <article className="digital">
