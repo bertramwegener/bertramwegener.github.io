@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_2" data-name="Lag 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 411.88 959.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Ikke-navngivet_forløb_3);
+      }
+
+      .cls-2 {
+        fill: url(#Ikke-navngivet_forløb_9);
+      }
+    </style>
+    <linearGradient id="Ikke-navngivet_forløb_9" data-name="Ikke-navngivet forløb 9" x1="206.24" y1="226.74" x2="206.24" y2="959.14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".15" stop-color="#571114" stop-opacity=".54"/>
+      <stop offset="1" stop-color="#c1272d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Ikke-navngivet_forløb_3" data-name="Ikke-navngivet forløb 3" x1="205.94" y1="0" x2="205.94" y2="411.88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c1272d"/>
+      <stop offset=".38" stop-color="#bf262c"/>
+      <stop offset=".52" stop-color="#b8252a"/>
+      <stop offset=".63" stop-color="#ac2228"/>
+      <stop offset=".71" stop-color="#9b1f24"/>
+      <stop offset=".78" stop-color="#841a1e"/>
+      <stop offset=".85" stop-color="#691518"/>
+      <stop offset=".91" stop-color="#480e10"/>
+      <stop offset=".96" stop-color="#230708"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <polyline class="cls-2" points="217.91 959.14 .59 226.74 411.88 229.02"/>
+    <circle class="cls-1" cx="205.94" cy="205.94" r="205.94"/>
+  </g>
+</svg>

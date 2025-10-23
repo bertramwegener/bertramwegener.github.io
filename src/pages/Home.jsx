@@ -4,7 +4,7 @@ export default function Home() {
         <>
             <header>
                 <figure className="headerImage">
-                    <img src="./billeder/me-upside-down.png" alt="" />
+                    <img src="./billeder/big-picture.png" alt="" />
                 
                     <div className="intro">
                         <p>Hi, I'm a</p>
@@ -16,12 +16,18 @@ export default function Home() {
             <section className="info">
                 <article className="digital">
                     <h2>Digital</h2>
-                    <p>Jeg laver til alt med en skærm</p>
+                    <p>
+                        Jeg kan udvikle visuelle og interaktive brugergrænseflader til alt fra mobil og TV/PC skærm til billboards. 
+                        Jeg har fokus på website opsætning og udvikling, med afspejling i kundeønsker.
+                    </p>
                 </article>
 
                 <article className="fysisk">
                     <h2>Fysisk</h2>
-                    <p>Jeg laver også trykte sager</p>
+                    <p>
+                        Jeg udvikler fysiske løsninger til alt fra etiketter og emballage til plakater og bannere.
+                        Jeg har særligt fokus på valg af kompositioner og farver, samt whitespace, med henblik på skabelse af optimal brugeroplevelse.
+                    </p>
                 </article>
             </section>
 
