@@ -1,4 +1,5 @@
 import { NavLink } from "react-router";
+import '../css/navbar.css';
 
 export default function Navbar() {
     return(
@@ -8,10 +9,18 @@ export default function Navbar() {
                 <NavLink to="/about">About</NavLink>
             </div>
 
+            <figure>
+                <img src="./billeder/navbar-1.svg" alt="" />
+            </figure>
+
             <div className="navigation 2">
                 <NavLink to="/projects">Cases</NavLink>
                 <NavLink to="/contact">Contact</NavLink>
             </div>
+
+            <figure>
+                <img src="./billeder/navbar-2.svg" alt="" />
+            </figure>
         </nav>
     );
 }
