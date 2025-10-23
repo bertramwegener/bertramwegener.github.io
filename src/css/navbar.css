@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: fixed;
+    padding: 1.5rem 1rem 0rem 1rem;
+}
+
+nav figure img {
+    width: 33rem;
+}
+
+.navigation.nav1 {
+    position: fixed;
+    z-index: 1000;
+    top: 5rem;
+    left: 8rem;
+}
+
+.navigation.nav2 {
+    position: fixed;
+    z-index: 1000;
+    top: 5rem;
+    left: 68rem;
+}

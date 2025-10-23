@@ -1,5 +1,6 @@
 import Info from '../component/info.jsx';
 import Cases from '../component/projects.jsx';
+import '../css/home.css';
 
 export default function Home() {
     return (
@@ -24,7 +25,7 @@ export default function Home() {
             <figure>
                 <img src="./billeder/section-split-2.svg" alt="" />
             </figure>
-            
+
             <Cases />
         </>
     );
