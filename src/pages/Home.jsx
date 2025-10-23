@@ -1,3 +1,5 @@
+import Info from '../component/info.jsx';
+import Cases from '../component/projects.jsx';
 
 export default function Home() {
     return (
@@ -17,23 +19,8 @@ export default function Home() {
                 <img src="./billeder/top-split.svg" alt="" />
             </figure>
 
-            <section className="info">
-                <article className="digital">
-                    <h2>Digital</h2>
-                    <p>
-                        Jeg kan udvikle visuelle og interaktive brugergrænseflader til alt fra mobil og TV/PC skærm til billboards. 
-                        Jeg har fokus på website opsætning og udvikling, med afspejling i kundeønsker.
-                    </p>
-                </article>
-
-                <article className="fysisk">
-                    <h2>Fysisk</h2>
-                    <p>
-                        Jeg udvikler fysiske løsninger til alt fra etiketter og emballage til plakater og bannere.
-                        Jeg har særligt fokus på valg af kompositioner og farver, samt whitespace, med henblik på skabelse af optimal brugeroplevelse.
-                    </p>
-                </article>
-            </section>
+            <Info />
+            <Cases />
         </>
     );
 }
