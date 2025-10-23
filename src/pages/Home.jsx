@@ -34,8 +34,6 @@ export default function Home() {
                     </p>
                 </article>
             </section>
-
-
         </>
     );
 }
