@@ -17,13 +17,13 @@ export default function Home() {
             </header>
 
             <figure className="topSplit">
-                <img src="./billeder/top-split.svg" alt="" />
+                <img src="./billeder/top-split.png" alt="" />
             </figure>
 
             <Info />
 
             <figure>
-                <img src="./billeder/section-split-2.svg" alt="" />
+                <img src="./billeder/section-split-2.png" alt="" />
             </figure>
 
             <Cases />
