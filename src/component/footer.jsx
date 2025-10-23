@@ -18,7 +18,7 @@ export default function Footer() {
             <h3>bertramkrygerwegener@gmail.com</h3>
 
             <figure className="footerImage">
-                <img src='./billeder/footer.svg' alt="" />
+                <img src='./billeder/footer.png' alt="" />
             </figure>
         </footer>
     );
