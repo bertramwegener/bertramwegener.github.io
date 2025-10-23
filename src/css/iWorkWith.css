@@ -1,0 +1,138 @@
+.slide-section {
+    background-color: #fff3de;
+}
+
+figure.workWith {
+    position: relative;
+    text-align: center;
+    width: 30rem;
+    z-index: 5;
+    left: 35%;
+}
+
+.workWith h2 {
+    position: absolute;
+    top: 17%;
+    left: 48%;
+    transform: translate(-50%, 50%);
+    font-size: 2.3rem;
+    color: #ffffff;
+    text-shadow: 0rem 0rem 0.5rem #000000;
+}
+
+.app{
+    width: 6rem;
+}
+
+.crea-app {
+    width: 8.5rem;
+}
+
+.slide {
+    position: absolute;
+    text-align: center;
+    width: 67.2%;
+    z-index: 3;
+    top: 142rem;
+    left: 5rem;
+}
+
+.hand {
+    position: relative;
+    top: -37rem;
+    width: 11.5rem;
+    z-index: 4;
+    left: 38.6rem;
+}
+
+.programming {
+    position: absolute;
+    z-index: 4;
+    top: 150rem
+}
+
+.slide-bar .programming figure {
+    margin: 11rem 1rem 0rem 13rem;
+}
+
+.one {
+    position: absolute;
+    top: 9.9rem;
+    left: 10.9rem;
+    z-index: -1;
+    width: 10rem;
+}
+
+.two {
+    position: absolute;
+    top: 29.8rem;
+    left: 10.9rem;
+    z-index: -1;
+    width: 10rem;
+}
+
+.three {
+    position: absolute;
+    top: 49.5rem;
+    left: 10.9rem;
+    z-index: -1;
+    width: 10rem;
+}
+
+.design {
+    position: absolute;
+    z-index: 4;
+    top: 150rem;
+    left: 68.5rem;
+}
+
+.slide-bar .design figure {
+    margin: 11rem 13rem 0rem 0rem;
+}
+
+.crea-one {
+    position: absolute;
+    top: 9.9rem;
+    left: -0.7rem;
+    z-index: -1;
+    width: 10rem;
+}
+
+.crea-two {
+    position: absolute;
+    top: 29.8rem;
+    left: -0.7rem;
+    z-index: -1;
+    width: 10rem;
+}
+
+.crea-three {
+    position: absolute;
+    top: 49.5rem;
+    left: -0.7rem;
+    z-index: -1;
+    width: 10rem;
+}
+
+.color {
+    transform: rotate(90deg);
+    position: relative;
+    width: 100%;
+    top: 0.5rem;
+    left: 15rem;
+}
+
+.detail {
+    position: absolute;
+    width: 25rem;
+    top: 201.5rem;
+    z-index: 3;
+}
+
+.split3 {
+    display: flex;
+    justify-content: center;
+    z-index: 3;
+    position: relative;
+    margin-top: 1rem;
+}

@@ -17,13 +17,13 @@ figure.headerImage {
 
 .intro h1 {
     font-size: 6rem;
-    color: white;
+    color: #ffffff;
     text-shadow: 0rem 0rem 1rem #000000;
 }
 
 .intro h2 {
     font-size: 3rem;
-    color: white;
+    color: #ffffff;
     text-shadow: 0rem 0rem 0.5rem #000000;
 }
 
@@ -39,4 +39,14 @@ figure.triangle {
     width: 100%;
     top: 55rem;
     z-index: 3;
+}
+
+figure.split2 {
+    display: flex;
+    justify-content: center;
+    background-color: #fff3de;
+}
+
+.split2 img {
+    z-index: 5;
 }
