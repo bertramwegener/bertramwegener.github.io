@@ -1,0 +1,96 @@
+.case-section {
+    background-color: #fff3de;
+}
+
+.lanterns {
+    width: 7rem;
+    position: absolute;
+    top: 231rem;
+    left: 76rem;
+    z-index: 2;
+}
+
+.cases {
+    position: relative;
+    text-align: center;
+    width: 30rem;
+    z-index: 5;
+    left: 35%;
+}
+
+.cases h2 {
+    position: absolute;
+    top: 17%;
+    left: 48%;
+    transform: translate(-50%, 50%);
+    font-size: 2.3rem;
+    color: #ffffff;
+    text-shadow: 0rem 0rem 0.5rem #000000;
+}
+
+.line1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.line1 figure {
+    width: 30rem;
+    margin-left: 4rem;
+    z-index: 2;
+}
+
+.line2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10rem;
+}
+
+.line2 figure {
+    width: 30rem;
+    margin-left: 4rem;
+    z-index: 2;
+}
+
+.link {
+    width: 347px;
+    height: 235px;
+    position: absolute;
+    top: 248.2rem;
+    left: 14.5rem;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.border {
+    pointer-events: none;
+}
+
+.link2 {
+    width: 347px;
+    height: 235px;
+    position: absolute;
+    top: 248.2rem;
+    left: 55.9rem;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.link3 {
+    width: 347px;
+    height: 235px;
+    position: absolute;
+    top: 279rem;
+    left: 14.5rem;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.link4 {
+    width: 347px;
+    height: 235px;
+    position: absolute;
+    top: 279rem;
+    left: 55.9rem;
+    z-index: -1;
+    object-fit: cover;
+}
