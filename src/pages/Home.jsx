@@ -20,6 +20,11 @@ export default function Home() {
             </figure>
 
             <Info />
+
+            <figure>
+                <img src="./billeder/section-split-2.svg" alt="" />
+            </figure>
+            
             <Cases />
         </>
     );
